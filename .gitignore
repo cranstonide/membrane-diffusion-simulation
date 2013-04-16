@@ -1,0 +1,8 @@
+# Standard Python Ignores
+*.py[cod]
+
+# Generated Datasets
+*.dat
+
+# Generated Graphs
+*.png
