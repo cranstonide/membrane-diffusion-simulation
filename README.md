@@ -1,4 +1,4 @@
-Diffusion of a Semi-permeable Membrane
+Diffusion of a Semi-Permeable Membrane
 ======================================
 
 A Python based simulator of diffusion of a semi-permeable membrane.
