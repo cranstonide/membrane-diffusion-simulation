@@ -1,4 +1,4 @@
-results: 
+dataset: 
 	python simulate.py
 
 graphs: 
