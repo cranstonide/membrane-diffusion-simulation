@@ -8,5 +8,6 @@ Usage
 If you are interested in running the simulation yourself, you can clone the repository and use the provided Makefile.
 
     git clone https://github.com/cranstonide/membrane-diffusion-simulation.git
+    cd membrane-diffusion-simulation/
     make dataset
     make graphs
