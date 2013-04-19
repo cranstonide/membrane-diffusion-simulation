@@ -11,3 +11,10 @@ If you are interested in running the simulation yourself, you can clone the repo
     cd membrane-diffusion-simulation/
     make dataset
     make graphs
+    
+Sample Graphs
+-------------
+![Graph1](http://i.imgur.com/v7VvO0o.png)
+![Graph2](http://i.imgur.com/x9wN5Xd.png)
+![Graph3](http://i.imgur.com/mCVmtRN.png)
+![Graph4](http://i.imgur.com/SLYp5zb.png)
