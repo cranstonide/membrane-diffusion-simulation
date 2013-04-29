@@ -1,5 +1,5 @@
 set terminal png size 1024,768
-set output "cvd_log.png"
+set output "plots/images/cvd_log.png"
 set xlabel "Distance (m)"
 set ylabel "Concentration"
 set logscale xy

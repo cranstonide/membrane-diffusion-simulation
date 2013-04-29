@@ -1,5 +1,5 @@
 set terminal png size 1024,768
-set output "pvd_lin.png"
+set output "plots/images/pvd_lin.png"
 set xlabel "Distance (m)"
 set ylabel "Permeability (m/s)"
 unset key

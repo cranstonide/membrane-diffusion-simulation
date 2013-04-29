@@ -1,8 +1,9 @@
 dataset: 
-	mkdir -p datasets
+	mkdir -p datasets/
 	python simulate.py
 
 graphs: 
+	mkdir plots/images/
 	gnuplot plots/plot_cvd_lin.plt
 	gnuplot plots/plot_cvd_log.plt
 	gnuplot plots/plot_dvd.plt
@@ -10,5 +11,5 @@ graphs:
 	gnuplot plots/plot_pvd.plt
 
 clean:
-	rm -fv *.png
-	rm -fv datasets/*
+	rm -rfv plots/images/
+	rm -rfv datasets/
