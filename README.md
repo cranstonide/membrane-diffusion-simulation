@@ -20,7 +20,7 @@ To Do List:
 
 Sample Graphs
 -------------
-![Imgur](http://i.imgur.com/klXIhOb.png)
+![Imgur](http://i.imgur.com/klXIhObl.png)
 ![Imgur](http://i.imgur.com/LxlKElEl.png)
 ![Imgur](http://i.imgur.com/1WKVv0Xl.png)
 ![Imgur](http://i.imgur.com/vjOrfNBl.png)
