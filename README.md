@@ -18,6 +18,7 @@ To Do List:
 - Make smaller graphs for this page
 - Add licence information (to be determined)
 - Add animation of particles moving through membrane 
+- Fix Makefile rules so you can't `make graphs` before `make dataset`.
 
 Sample Graphs
 -------------
