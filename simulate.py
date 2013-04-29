@@ -1,3 +1,11 @@
+# Mark Ide <mide@umassd.edu>
+# Rebecca Gaddis <rlgaddis@wpi.edu>
+# April 29, 2013
+
+# This is Licensed under the MIT Licence.
+# A copy can be found in LICENSE.txt
+
+# Simulation of Diffusion Across a Semi-Permiable Membrane
 
 import numpy
 import math
