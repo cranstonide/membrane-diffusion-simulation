@@ -17,6 +17,7 @@ To Do List:
 - Clean up `simulate.py` (add comments and such)
 - Make smaller graphs for this page
 - Add licence information (to be determined)
+- Add animation of particles moving through membrane 
 
 Sample Graphs
 -------------
