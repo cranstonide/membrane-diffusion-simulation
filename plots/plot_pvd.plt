@@ -4,4 +4,4 @@ set xlabel "Distance (m)"
 set ylabel "Permeability (m/s)"
 unset key
 set title "Permeability"
-plot "permeability_vs_distance.dat"
+plot "datasets/permeability_vs_distance.dat"

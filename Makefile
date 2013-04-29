@@ -1,4 +1,5 @@
 dataset: 
+	mkdir -p datasets
 	python simulate.py
 
 graphs: 
@@ -10,5 +11,4 @@ graphs:
 
 clean:
 	rm -fv *.png
-	rm -fv *~
-	rm -fv *.dat
+	rm -fv datasets/*

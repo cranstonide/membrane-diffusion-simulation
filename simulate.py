@@ -42,10 +42,10 @@ eta[3] = 1.92 * math.pow(10, -6)
 R_0 = D1[1]/(6 * math.pi * eta[1])
 
 try:
-    cvd = open('concentration_vs_distance.dat', 'w')
-    dvd = open('diffusion_vs_distance.dat', 'w')
-    pvd = open('permeability_vs_distance.dat', 'w')
-    fvd = open('flux_vs_distance.dat', 'w')
+    cvd = open('datasets/concentration_vs_distance.dat', 'w')
+    dvd = open('datasets/diffusion_vs_distance.dat', 'w')
+    pvd = open('datasets/permeability_vs_distance.dat', 'w')
+    fvd = open('datasets/flux_vs_distance.dat', 'w')
 
     # For distance in range
     for r in numpy.arange(1 * math.pow(10, -9), 200 * math.pow(10, -9), 1 * math.pow(10, -9)):

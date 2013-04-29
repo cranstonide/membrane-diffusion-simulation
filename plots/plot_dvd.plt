@@ -4,4 +4,4 @@ set xlabel "Distance (m)"
 set ylabel "Diffusion (m^2 / sec)"
 unset key
 set title "Diffusion"
-plot "diffusion_vs_distance.dat"
+plot "datasets/diffusion_vs_distance.dat"

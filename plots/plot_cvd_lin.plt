@@ -4,4 +4,4 @@ set xlabel "Distance (m)"
 set ylabel "Concentration"
 unset key
 set title "Linear Concentration"
-plot "concentration_vs_distance.dat"
+plot "datasets/concentration_vs_distance.dat"

@@ -4,4 +4,4 @@ set xlabel "Distance (m)"
 set ylabel "Flux (m/s)"
 unset key
 set title "Flux"
-plot [:][-4000:1] "flux_vs_distance.dat"
+plot [:][-4000:1] "datasets/flux_vs_distance.dat"

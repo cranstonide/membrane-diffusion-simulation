@@ -5,4 +5,4 @@ set ylabel "Concentration"
 set logscale xy
 unset key
 set title "Logarithmic Concentration"
-plot "concentration_vs_distance.dat"
+plot "datasets/concentration_vs_distance.dat"
