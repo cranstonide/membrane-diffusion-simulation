@@ -2,14 +2,13 @@ dataset:
 	python simulate.py
 
 graphs: 
-	gnuplot graph1.plt
-	gnuplot graph2.plt
-	gnuplot graph3.plt
-	gnuplot graph4.plt
-	
+	gnuplot plots/plot_cvd_lin.plt
+	gnuplot plots/plot_cvd_log.plt
+	gnuplot plots/plot_dvd.plt
+	gnuplot plots/plot_fvd.plt
+	gnuplot plots/plot_pvd.plt
+
 clean:
 	rm -fv *.png
 	rm -fv *~
-
-reset: clean
 	rm -fv *.dat
