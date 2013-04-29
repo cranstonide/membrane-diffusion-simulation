@@ -3,7 +3,7 @@ dataset:
 	python simulate.py
 
 graphs: 
-	mkdir plots/images/
+	mkdir -p plots/images/
 	gnuplot plots/plot_cvd_lin.plt
 	gnuplot plots/plot_cvd_log.plt
 	gnuplot plots/plot_dvd.plt
